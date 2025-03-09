@@ -2,7 +2,7 @@
 
 ## 📝 Step-by-Step Setup Guide for ESP32 Evil Twin
 
-### 🔧 Requirements
+### 🛠 Requirements
 
 - ✅ ESP32 WROOM Development Board
 - ✅ Arduino IDE Installed
@@ -71,7 +71,7 @@ ESP32-Evil-Twin/
 
 ## 5️⃣ Upload the Code to ESP32
 
-1. Click the **Upload** button (➡) in **Arduino IDE**.
+1. Click the **Upload** button (▶) in **Arduino IDE**.
 2. Wait for the code to flash successfully.
 3. Open **Serial Monitor** (**Tools > Serial Monitor**) and set **baud rate** to **115200**.
 
@@ -88,13 +88,10 @@ ESP32-Evil-Twin/
 ## 📸 Output Section
 
 ### 🔹 Fake Login Page:
-![Image](https://github.com/user-attachments/assets/617960cf-1471-4462-afd1-2f5eb10a0c10)
+![Fake Login Page](https://github.com/user-attachments/assets/617960cf-1471-4462-afd1-2f5eb10a0c10)
 
 ### 🔹 Captured Credentials Display:
-![Image](https://github.com/user-attachments/assets/db6e9ed8-f3e9-4a4c-9b05-be6c7c1eb20d)
-
-### 🔹 Credentials Deletion Confirmation:
-![Image](https://github.com/user-attachments/assets/5b25964d-170e-45fc-9399-4f96d2b37898)
+![Captured Credentials](https://github.com/user-attachments/assets/db6e9ed8-f3e9-4a4c-9b05-be6c7c1eb20d)
 
 ### 🔹 Serial Monitor Output:
 ```
@@ -108,11 +105,6 @@ ESP32-Evil-Twin/
 
 ### 🎥 Video Demonstration:
 [![Video](https://github.com/user-attachments/assets/b7ed73c4-8755-4408-a822-bba96530ff28)](https://github.com/user-attachments/assets/b7ed73c4-8755-4408-a822-bba96530ff28)
-
-### 🔹 Additional Demo Screenshots:
-![Image](https://github.com/user-attachments/assets/bb6a76f9-2628-4c67-9a66-9ad716e5cbec)
-
-![Image](https://github.com/user-attachments/assets/6af3b729-bb6f-4b7c-bc3e-674d28f1db18)
 
 ---
 
