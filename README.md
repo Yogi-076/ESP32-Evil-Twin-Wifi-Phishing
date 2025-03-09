@@ -94,6 +94,8 @@ To erase stored credentials, visit:
 This will **clear all saved data**.
 
 ---
+# OR 
+# Use Serial Monitor
 
 ## ✅ You're Done!
 Your **ESP32 Evil Twin Attack** is now **fully set up and working**.
