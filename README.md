@@ -75,7 +75,7 @@ ESP32-Evil-Twin/
 2. **Connect** to the **"Shaktiman"** WiFi network on any device.
 3. Open **any website** → You should be redirected to the **fake login page**.
 
-![Image](https://github.com/user-attachments/assets/617960cf-1471-4462-afd1-2f5eb10a0c10)
+<img src="https://github.com/user-attachments/assets/617960cf-1471-4462-afd1-2f5eb10a0c10" width="600">
 
 ---
 
@@ -86,7 +86,7 @@ ESP32-Evil-Twin/
    ```
 2. This will display **stored usernames & passwords**.
 
-![Image](https://github.com/user-attachments/assets/db6e9ed8-f3e9-4a4c-9b05-be6c7c1eb20d)
+<img src="https://github.com/user-attachments/assets/db6e9ed8-f3e9-4a4c-9b05-be6c7c1eb20d" width="600">
 
 ---
 
@@ -97,7 +97,7 @@ To erase stored credentials, visit:
    ```
 This will **clear all saved data**.
 
-![Image](https://github.com/user-attachments/assets/5b25964d-170e-45fc-9399-4f96d2b37898)
+<img src="https://github.com/user-attachments/assets/5b25964d-170e-45fc-9399-4f96d2b37898" width="600">
 
 ---
 
