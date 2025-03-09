@@ -10,6 +10,10 @@
 
 ---
 
+Output: 
+
+---
+
 ## 📁 Project Structure
 Ensure your project folder is structured as follows:
 ```
