@@ -87,12 +87,6 @@ ESP32-Evil-Twin/
 
 ## 📸 Output Section
 
-### 🔹 Fake Login Page:
-![Fake Login Page](https://github.com/user-attachments/assets/617960cf-1471-4462-afd1-2f5eb10a0c10)
-
-### 🔹 Captured Credentials Display:
-![Captured Credentials](https://github.com/user-attachments/assets/db6e9ed8-f3e9-4a4c-9b05-be6c7c1eb20d)
-
 ### 🔹 Serial Monitor Output:
 ```
 [+] ESP32 Honeypot Starting...
