@@ -107,9 +107,9 @@ ESP32-Evil-Twin/
 ```
 
 ### 🎥 Video Demonstration:
-[![Video](https://github.com/user-attachments/assets/c680d766-2e5c-4006-89ee-8187468b3f2e)](https://github.com/user-attachments/assets/c680d766-2e5c-4006-89ee-8187468b3f2e)
+[![Video](https://github.com/user-attachments/assets/b7ed73c4-8755-4408-a822-bba96530ff28)](https://github.com/user-attachments/assets/b7ed73c4-8755-4408-a822-bba96530ff28)
 
-### 🔹 Additional Demo Screenshot:
+### 🔹 Additional Demo Screenshots:
 ![Image](https://github.com/user-attachments/assets/bb6a76f9-2628-4c67-9a66-9ad716e5cbec)
 
 ![Image](https://github.com/user-attachments/assets/6af3b729-bb6f-4b7c-bc3e-674d28f1db18)
