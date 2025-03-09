@@ -75,7 +75,30 @@ ESP32-Evil-Twin/
 2. **Connect** to the **"Shaktiman"** WiFi network on any device.
 3. Open **any website** → You should be redirected to the **fake login page**.
 
+---
+
+## 📸 Output Section
+### 🔹 Fake Login Page:
 <img src="https://github.com/user-attachments/assets/617960cf-1471-4462-afd1-2f5eb10a0c10" width="600">
+
+### 🔹 Captured Credentials Display:
+<img src="https://github.com/user-attachments/assets/db6e9ed8-f3e9-4a4c-9b05-be6c7c1eb20d" width="600">
+
+### 🔹 Credentials Deletion Confirmation:
+<img src="https://github.com/user-attachments/assets/5b25964d-170e-45fc-9399-4f96d2b37898" width="600">
+
+### 🔹 Serial Monitor Output:
+```
+[+] ESP32 Honeypot Starting...
+[+] SPIFFS Mounted Successfully
+[+] Hosted WiFi SSID: Shaktiman
+[+] WebServer Started!
+[+] Captured Credentials: user1:password1
+[+] Captured Credentials: user2:password2
+```
+
+### 🎥 Video Demonstration:
+[![Video](https://github.com/user-attachments/assets/bb6a76f9-2628-4c67-9a66-9ad716e5cbec)](https://github.com/user-attachments/assets/6af3b729-bb6f-4b7c-bc3e-674d28f1db18)
 
 ---
 
@@ -86,8 +109,6 @@ ESP32-Evil-Twin/
    ```
 2. This will display **stored usernames & passwords**.
 
-<img src="https://github.com/user-attachments/assets/db6e9ed8-f3e9-4a4c-9b05-be6c7c1eb20d" width="600">
-
 ---
 
 ## 8️⃣ Delete Captured Credentials
@@ -96,8 +117,6 @@ To erase stored credentials, visit:
    http://172.0.0.1/deleteinfo
    ```
 This will **clear all saved data**.
-
-<img src="https://github.com/user-attachments/assets/5b25964d-170e-45fc-9399-4f96d2b37898" width="600">
 
 ---
 
